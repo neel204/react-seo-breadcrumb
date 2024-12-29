@@ -1,0 +1,35 @@
+{
+  "name": "react-seo-breadcrumb",
+  "version": "1.0.5",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src --out-dir dist --copy-files && npm run build:css",
+    "prepare": "npm run build",
+    "build:css": "postcss src/tailwind.css -o dist/tailwind.css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "autoprefixer": "^10.4.20",
+    "prop-types": "^15.8.1",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "tailwindcss": "^3.4.17"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.26.4",
+    "@babel/core": "^7.26.0",
+    "@babel/preset-env": "^7.26.0",
+    "@babel/preset-react": "^7.26.3",
+    "postcss": "^8.4.49",
+    "postcss-cli": "^11.0.0"
+  },
+  "files": [
+    "dist/**/*",
+    "src/**/*",
+    "tailwind.css"
+  ]
+}
