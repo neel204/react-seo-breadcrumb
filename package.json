@@ -1,6 +1,6 @@
 {
   "name": "react-seo-breadcrumb",
-  "version": "1.0.5",
+  "version": "1.0.7",
   "main": "dist/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -8,7 +8,23 @@
     "prepare": "npm run build",
     "build:css": "postcss src/tailwind.css -o dist/tailwind.css"
   },
-  "keywords": [],
+  "keywords": [
+    "react",
+    "breadcrumb",
+    "seo",
+    "react-component",
+    "tailwindcss",
+    "react-breadcrumb",
+    "navigation",
+    "schema",
+    "structured-data",
+    "breadcrumb-schema",
+    "website-navigation",
+    "breadcrumb-trail",
+    "user-experience",
+    "google-search",
+    "react-navigation"
+  ],
   "author": "",
   "license": "ISC",
   "description": "",

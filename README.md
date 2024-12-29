@@ -223,3 +223,17 @@ Breadcrumbs enhance user navigation and provide substantial SEO benefits. By imp
 ### The MIT License
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+## Support
+
+If you encounter any problems, have questions, or want to request features, feel free to reach out via:
+
+- GitHub Issues: [Report an Issue](https://github.com/neel204/react-seo-breadcrumb/issues)
+- Email: [neel.chavda104@gmail.com](mailto:neel.chavda104@gmail.com)
+- Contributions: Contributions are welcome! Please follow the [Contribution Guidelines](CONTRIBUTING.md).
+
+---
+
+## Keywords
+
+React, Breadcrumb, SEO Breadcrumb, React Component, Tailwind CSS Breadcrumb, Structured Data, Navigation, React SEO, SEO-friendly
